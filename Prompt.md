@@ -180,7 +180,7 @@ To prepare the application for production deployment.
 
 ### Student
 
-Aryan NP
+Aryan 
 
 ### Sprint
 
